@@ -1,0 +1,11 @@
+[Protocol]
+exec=DigiEuro2-qt '%u'
+protocol=DigiEuro2
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

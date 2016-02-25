@@ -1,0 +1,5 @@
+DigiEuro2-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/DigiEuro2-qt.desktop usr/share/applications
+debian/DigiEuro2-qt.protocol usr/share/kde4/services/
